@@ -1,2 +1,3 @@
 # Chat++
-NOT availbe
+
+**🚨 WICHTIG: NICHT ÖFFNEN!!! 🚨**
