@@ -2,7 +2,7 @@
     <img src="./chatpp-logo.png" width="500"/>
 </p>
 <div align="center">
-<img alt="woyzy" src="https://img.shields.io/badge/Woyzy-F7DF1E">
+<img alt="Chatpp" src="https://img.shields.io/badge/Chat++-F7DF1E">
 <img alt="tg-loerrach" src="https://img.shields.io/badge/TG Lörrach-red">
 <br>
 <br>
