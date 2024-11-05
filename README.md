@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img-readme/chatpp-logo" width="500"/>
+    <img src="./chatpp-logo" width="500"/>
 </p>
 <div align="center">
 <img alt="woyzy" src="https://img.shields.io/badge/Woyzy-F7DF1E">
