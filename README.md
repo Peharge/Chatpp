@@ -1,3 +1,3 @@
 # Chat++
 
-**🚨 WICHTIG: NICHT ÖFFNEN!!! 🚨**
+**🚨 IMPORTANT: NOT PUBLIC YET!!! 🚨**
