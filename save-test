@@ -1,0 +1,18 @@
+import psutil
+
+def main():
+    # Liste aller laufenden Prozesse abrufen
+    running_processes = psutil.process_iter()
+
+    # Dateien ausgeben, die von jedem Prozess geöffnet sind
+    for process in running_processes:
+        try:
+            # Offene Dateien des aktuellen Prozesses abrufen
+            open_files = process.open_files()
+
+            # Für jede offene Datei Informationen ausgeben
+            for file in open_files:
+                print(f"PID: {process.pid} | Name: {process.name()} | File: {file.path}")
+        except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+            # Mögliche Fehler behandeln, wenn ein Prozess nicht mehr existiert oder nicht zugänglich ist
+            pass

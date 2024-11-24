@@ -1,0 +1,12 @@
+2024-08-22 12:21:40,275 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-08-22 12:21:40,275 - DEBUG - load_verify_locations cafile='C:\\Users\\julia\\PycharmProjects\\Xcpp\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-08-22 12:21:40,907 - DEBUG - CoInitializeEx(None, 2)
+2024-08-22 12:21:48,606 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-08-22 12:22:21,834 - DEBUG - Calling CoUninitialize()
+2024-08-22 12:22:21,834 - DEBUG - CoUninitialize() done.
+2024-08-23 11:24:56,437 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-08-23 11:24:56,438 - DEBUG - load_verify_locations cafile='C:\\Users\\julia\\PycharmProjects\\Xcpp\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-08-23 11:24:57,096 - DEBUG - CoInitializeEx(None, 2)
+2024-08-23 11:25:00,065 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-08-23 11:26:06,844 - DEBUG - Calling CoUninitialize()
+2024-08-23 11:26:06,844 - DEBUG - CoUninitialize() done.
