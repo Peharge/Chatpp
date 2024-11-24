@@ -37,6 +37,7 @@
 # Chat++
 
 **🚨 IMPORTANT: NOT PUBLIC YET!!! 🚨**
+and not yet commented (I will make this repository readable by 01.12.2024)
 
 | Nr.    | Chat++                | Chat++ 2                           | Chat++ 3         | Chat++ 4         | Chat++ 5         |
 |--------|--------------------------|------------------------------------|-------------------|-------------------|-------------------|
