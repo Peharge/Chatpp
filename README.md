@@ -4,6 +4,7 @@
 <div align="center">
 <img alt="Chatpp" src="https://img.shields.io/badge/Chat++-F7DF1E">
 <img alt="tg-loerrach" src="https://img.shields.io/badge/TG Lörrach-red">
+<img alt="peharge" src="https://img.shields.io/badge/Peharge-rgb(100, 100, 100)">
 <br>
 <br>
 
