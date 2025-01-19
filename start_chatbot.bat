@@ -1,3 +1,3 @@
 @echo off
-cd "C:\Users\julia\PycharmProjects\test23"
+cd "C:\Users\%USERNAME%\PycharmProjects\Chatpp\main\"
 python "test6.py"
