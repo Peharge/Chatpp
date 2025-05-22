@@ -40,6 +40,8 @@
 **🚨 IMPORTANT: NOT PUBLIC YET!!! 🚨**
 and not yet commented (I will make this repository readable by i don't know)
 
+All in 'main'!
+
 | Nr.    | Chat++                | Chat++ 2                           | Chat++ 3         | Chat++ 4         | Chat++ 5         |
 |--------|--------------------------|------------------------------------|-------------------|-------------------|-------------------|
 | **IMG**  | <p align="center"><img src="./readme-img2/Chat%2B%2B%20logo.png" width="500"/></p> | <p align="center"><img src="./readme-img2/Blender%20Render%2013.07.2023%2016_42_46%20-%20Kopie.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/Chat%2B%2B3.0ads.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/Chat%2B%2B4.0.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/chat%2B%2B%20logo5.png" width="500"/></p>  |
