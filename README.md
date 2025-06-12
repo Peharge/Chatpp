@@ -37,15 +37,66 @@
 
 # Chat++
 
-**🚨 IMPORTANT: NOT PUBLIC YET!!! 🚨**
-and not yet commented (I will make this repository readable by i don't know)
+Chat++ is an experimental AI-powered video chatbot I built between 2022 and 2023. It enables real-time conversations while also analyzing the camera feed to provide interactive, context-aware responses.
 
-All in 'main'!
+💡 The project was designed to explore the intersection of video communication and AI perception.
 
-| Nr.    | Chat++                | Chat++ 2                           | Chat++ 3         | Chat++ 4         | Chat++ 5         |
-|--------|--------------------------|------------------------------------|-------------------|-------------------|-------------------|
-| **IMG**  | <p align="center"><img src="./readme-img2/Chat%2B%2B%20logo.png" width="500"/></p> | <p align="center"><img src="./readme-img2/Blender%20Render%2013.07.2023%2016_42_46%20-%20Kopie.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/Chat%2B%2B3.0ads.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/Chat%2B%2B4.0.png" width="500"/></p>  | <p align="center"><img src="./readme-img2/chat%2B%2B%20logo5.png" width="500"/></p>  |
-| **Data**  | ...                    | ...                               | ...             | ...             | ...             |
+⚠️ Note: This project is currently undocumented and has not been updated since August 2024. Use at your own risk.
+
+Peharge
+
+### **Chat++**
+
+<p align="center">
+  <img src="./readme-img2/Chat%2B%2B%20logo.png" width="400"/>
+</p>
+
+**Data:**
+*Initial prototype with basic video chat and camera analysis.*
+
+---
+
+### **Chat++ 2**
+
+<p align="center">
+  <img src="./readme-img2/Blender%20Render%2013.07.2023%2016_42_46%20-%20Kopie.png" width="400"/>
+</p>
+
+**Data:**
+*Upgraded visuals, minor UX improvements.*
+
+---
+
+### **Chat++ 3**
+
+<p align="center">
+  <img src="./readme-img2/Chat%2B%2B3.0ads.png" width="400"/>
+</p>
+
+**Data:**
+*Experimental ad integration and UI tweaks.*
+
+---
+
+### **Chat++ 4**
+
+<p align="center">
+  <img src="./readme-img2/Chat%2B%2B4.0.png" width="400"/>
+</p>
+
+**Data:**
+*AI response logic improved with better context awareness.*
+
+---
+
+### **Chat++ 5**
+
+<p align="center">
+  <img src="./readme-img2/chat%2B%2B%20logo5.png" width="400"/>
+</p>
+
+**Data:**
+*Final iteration (so far), focused on performance and stability.*
 
 <br><br><br>
 
